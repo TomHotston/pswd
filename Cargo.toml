@@ -1,0 +1,9 @@
+[package]
+name = "pswd"
+version = "1.0.0"
+authors = ["TomHotston <hotston.tom@gmail.com>"]
+edition = "2018"
+description = "A tool for selecting characters from passwords"
+
+[dependencies]
+clap = "2.33.1"
